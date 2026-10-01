@@ -12,6 +12,11 @@ add-on services (like tech support or online security) are far more likely
 to churn because they have less "lock-in" and less perceived value for 
 the price.
 
+### 🔎 View the Full Analysis
+
+**[View the interactive Telco churn retention strategy](https://limposhawa.github.io/telco-churn-retention-strategy/  )**
+
+
 ## Approach
 Exploratory analysis on the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) 
 (7,043 customers, 21 features). Data was checked and cleaned first: no missing 
